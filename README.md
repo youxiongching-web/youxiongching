@@ -46,5 +46,6 @@ MS Office (Word, Excel), basic computer skills.
 
 ###/ Link Codepen 
 PROFILE HTML: https://codepen.io/You-xiong-Chin/pen/myeJMBg
+
 \*Note: The above lists key work experience. Please feel free to contact me for further details.
 
