@@ -21,9 +21,11 @@ Customer needs identification, product guidance, inventory management, store env
 * Physics teaching, curriculum development, student behavior management and assessment.
 
 
-\##\* Technical Tools:
+###\* Technical Tools:
 MS Office (Word, Excel), basic computer skills.
+
 ## \*\* 💼 Selected Work Experiences :
+
 ### \*\* Retail and Warehouse Management
 \* Shop Assistant | R max mart 2
 \* Responsible for daily store operations, ensuring inventory safety, and providing accurate customer purchasing guidance.
@@ -38,9 +40,11 @@ MS Office (Word, Excel), basic computer skills.
 \* Special Education Admin Assistant (Trainee) | Happyland Center
 \* Assists with special education administrative affairs, possessing experience in teaching support and administrative assistance.
 
-### ### Educational Background
+### Educational Background
 * \* Bachelor of Science (Physics) | NUS
 * STPM/A Level | Foon Yew High School ---
 
-
+###/ Link Codepen 
+PROFILE HTML: https://codepen.io/You-xiong-Chin/pen/myeJMBg
 \*Note: The above lists key work experience. Please feel free to contact me for further details.
+
