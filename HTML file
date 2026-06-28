@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -12,10 +12,58 @@
             background-color: blue; /* Themed background */
             color: white;
         }
-
         a {
             color: white;
             text-decoration: none;
         }
-
         a:hover {
+            text-decoration: underline;
+        }
+        header {
+            margin-bottom: 20px;
+            text-align: center; /* Center the header text */
+        }
+        main {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid white;
+            border-radius: 8px;
+            background-color: rgba(0, 0, 0, 0.3); /* Slightly transparent background for main content */
+        }
+        footer {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .project-link, .facebook-link {
+            display: block; /* Make links block-level for better spacing */
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>欢迎来到我的个人网络档案主页</h1>
+        <p>探索我的项目和联系方式！</p>
+    </header>
+    <main>
+<h2>
+<p><strong>我的项目：</strong><a class="project-link"href= "https://www.linkedin.com/embed/feed/update/urn:li:share:7476940782608994304?collapsed=1" target="_blank">[click here → : 点击查看我在 Linkedln 上的作品。] </a></p>
+     </h2>
+
+
+    
+    
+        <p><strong>我的项目：</strong><a class="project-link" href="https://codepen.io/youxiongchin49/full/MYaYdLx" target="_blank">[click here → : 点击查看我在 CodePen 上的作品。] </a></p>
+        <p><strong>在 Facebook 上与我联系：</strong></p>
+        <p><a class="facebook-link" href="https://www.facebook.com/share/1AQDfLr52F/" target="_blank">[click here: 链接 1]</a></p>
+        <p><a class="facebook-link" href=" https://www.facebook.com/profile.php?id=61554809879403" target="_blank">[click here: 链接 2]</a></p>
+        <p><strong>分享我的档案：</strong></p>
+        <p>您可以通过上述Facebook链接分享我的档案。</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 我的个人档案</p>
+    </footer>
+</body>
+</html>
+
