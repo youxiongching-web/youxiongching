@@ -50,10 +50,7 @@
 <h2>
 <p><strong>我的项目：</strong><a class="project-link"href= "https://www.linkedin.com/embed/feed/update/urn:li:share:7476940782608994304?collapsed=1" target="_blank">[click here → : 点击查看我在 Linkedln 上的作品。] </a></p>
      </h2>
-
-
-    
-    
+       
         <p><strong>我的项目：</strong><a class="project-link" href="https://codepen.io/youxiongchin49/full/MYaYdLx" target="_blank">[click here → : 点击查看我在 CodePen 上的作品。] </a></p>
         <p><strong>在 Facebook 上与我联系：</strong></p>
         <p><a class="facebook-link" href="https://www.facebook.com/share/1AQDfLr52F/" target="_blank">[click here: 链接 1]</a></p>
